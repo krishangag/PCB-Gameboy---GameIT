@@ -485,7 +485,6 @@ Figure 28: Problem number pointing to its respective solution.
 
 ## 9	Result: Working GameBoy
 
-![This shows the working prototype](img/WorkingVideo.mp4)
 [![This shows the working prototype](img/thumbnail.png)](img/WorkingVideo.mp4)
 
 
