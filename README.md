@@ -484,6 +484,7 @@ Figure 27: Lack of ground plane for pad pointed by arrow
 Figure 28: Problem number pointing to its respective solution.
 
 ## 9	Result: Working GameBoy
+Click on the thumbnail below to see a video of the fully functional Gameboys! 
 
 [![This shows the working prototype](img/thumbnail.png)](img/WorkingVideo.mp4)
 
